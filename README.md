@@ -1,6 +1,6 @@
 # Iceland-Geocode
 
-Simple geocoding proxy server for Icelandic addresses using non-blocking calls to fasteignaskrá.
+Simple geocoding proxy server for Icelandic addresses using non-blocking calls to fasteignaskrá. Returns results in gmaps friendly wgs84.
 
 ## caveat emptor
 
