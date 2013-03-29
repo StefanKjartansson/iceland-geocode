@@ -1,0 +1,149 @@
+Póstnúmer;Staður;Tegund;Svæði;Heimilisfang
+101;Reykjavík;Afgreiðsla;Höfuðborgarsvæðið;Pósthússtræti 5
+103;Reykjavík;Póstnúmer;Höfuðborgarsvæðið;Síðumúla 3-5
+104;Reykjavík;Póstnúmer;Höfuðborgarsvæðið;Síðumúla 3-5
+105;Reykjavík;Afgreiðsla;Höfuðborgarsvæðið;Síðumúla 3-5
+107;Reykjavík;Afgreiðsla;Höfuðborgarsvæðið;Eiðistorg 15
+108;Reykjavík;Pósthús;Höfuðborgarsvæðið;Síðumúla 3-5
+109;Reykjavík;Afgreiðsla;Höfuðborgarsvæðið;Þönglabakka 4
+110;Reykjavík;Afgreiðsla;Höfuðborgarsvæðið;Hraunbær 119
+111;Reykjavík;Póstnúmer;Höfuðborgarsvæðið;Þönglabakka 4
+112;Reykjavík;Afgreiðsla;Höfuðborgarsvæðið;Hverafold 1-3
+113;Reykjavík;Póstnúmer;Höfuðborgarsvæðið;Hraunbær 119
+116;Reykjavík;Póstnúmer;Höfuðborgarsvæðið;Háholti 14
+121;Reykjavík;Pósthólf;Höfuðborgarsvæðið;Pósthússtræti 5 (pósthólf)
+123;Reykjavík;Pósthólf;Höfuðborgarsvæðið;Síðumúla 3-5 (pósthólf)
+124;Reykjavík;Pósthólf;Höfuðborgarsvæðið;Síðumúla 3-5 (pósthólf)
+125;Reykjavík;Pósthólf;Höfuðborgarsvæðið;Síðumúla 3-5 (pósthólf)
+127;Reykjavík;Pósthólf;Höfuðborgarsvæðið;Eiðistorg 15 (pósthólf)
+128;Reykjavík;Pósthólf;Höfuðborgarsvæðið;Síðumúli 3-5 (pósthólf)
+129;Reykjavík;Pósthólf;Höfuðborgarsvæðið;Þönglabakka 4 (pósthólf)
+130;Reykjavík;Pósthólf;Höfuðborgarsvæðið;Hraunbæ 119 (pósthólf)
+132;Reykjavík;Pósthólf;Höfuðborgarsvæðið;Hverafold 1-3 (pósthólf)
+150;Reykjavík;Póstnúmer;Fyrirtækjaþjónusta;Fyrirtæki/Stofnanir
+155;Reykjavík;Póstnúmer;Fyrirtækjaþjónusta;Fyrirtæki/Stofnanir
+170;Seltjarnarnesi;Afgreiðsla;Höfuðborgarsvæðið;Eiðistorg 15
+172;Seltjarnarnesi;Pósthólf;Höfuðborgarsvæðið;Eiðistorg 15 (pósthólf)
+190;Vogum;Afgreiðsla;Suðurland og Reykjanes;Iðndal 2
+200;Kópavogi;Afgreiðsla;Höfuðborgarsvæðið;Dalvegi 18
+201;Kópavogi;Póstnúmer;Höfuðborgarsvæðið;Dalvegi 18
+202;Kópavogi;Pósthólf;Höfuðborgarsvæðið;Dalvegi 18 (pósthólf)
+203;Kópavogi;Póstnúmer;Höfuðborgarsvæðið;Dalvegi 18
+210;Garðabæ;Pósthús;Höfuðborgarsvæðið;Litlatúni 3
+212;Garðabæ;Pósthólf;Höfuðborgarsvæðið;Litlatúni 3 (pósthólf)
+220;Hafnarfirði;Afgreiðsla;Höfuðborgarsvæðið;Firði
+221;Hafnarfirði;Póstnúmer;Höfuðborgarsvæðið;Firði
+222;Hafnarfirði;Pósthólf;Höfuðborgarsvæðið;Firði (pósthólf)
+225;Álftanesi;Póstnúmer;Höfuðborgarsvæðið;Garðatorgi 5 (Garðabæ)
+230;Reykjanesbæ;Pósthús;Suðurland og Reykjanes;Hafnargötu 89
+232;Reykjanesbæ;Pósthólf;Suðurland og Reykjanes;Hafnargötu 89 (pósthólf)
+233;Reykjanesbæ;Póstnúmer;Suðurland og Reykjanes;Hafnargötu 89 (Keflavík)
+235;Reykjanesbæ;Afgreiðsla;Suðurland og Reykjanes;Hafnargötu 89 (Keflavík)
+240;Grindavík;Afgreiðsla;Suðurland og Reykjanes;Víkurbraut 25
+245;Sandgerði;Afgreiðsla;Suðurland og Reykjanes;Suðurgötu 2 - 4
+250;Garði;Afgreiðsla;Suðurland og Reykjanes;Garðbraut 69
+260;Reykjanesbæ;Póstnúmer;Suðurland og Reykjanes;Hafnargötu 89 (Keflavík)
+270;Mosfellsbæ;Afgreiðsla;Höfuðborgarsvæðið;Háholt 14 (Mosfellsbæ)
+271;Mosfellsbæ;Afgreiðsla;Höfuðborgarsvæðið;Háholt 14 (Mosfellsbæ)
+276;Mosfellsbæ;Afgreiðsla;Höfuðborgarsvæðið;Háholt 14 (Mosfellsbæ)
+300;Akranesi;Pósthús;Vesturland og Vestfirðir;Smiðjuvöllum 30
+301;Akranesi;Dreifbýli;Vesturland og Vestfirðir;Landpóstur
+302;Akranesi;Pósthólf;Vesturland og Vestfirðir;Smiðjuvöllum 30 (pósthólf)
+310;Borgarnesi;Afgreiðsla;Vesturland og Vestfirðir;Borgarbraut 12
+311;Borgarnesi;Dreifbýli;Vesturland og Vestfirðir;Landpóstur
+320;Reykholt í Borgarfirði;Afgreiðsla;Vesturland og Vestfirðir;Landpóstur
+340;Stykkishólmi;Pósthús;Vesturland og Vestfirðir;Aðalgötu 31
+345;Flatey á Breiðafirði;Afgreiðsla;Vesturland og Vestfirðir;Flatey
+350;Grundarfirði;Afgreiðsla;Vesturland og Vestfirðir;Grundargötu 50
+355;Ólafsvík;Pósthús;Vesturland og Vestfirðir;Bæjartúni 5
+356;Snæfellsbæ;Póstnúmer;Vesturland og Vestfirðir;Landpóstur
+360;Hellissandi;Afgreiðsla;Vesturland og Vestfirðir;Klettsbúð 7
+370;Búðardal;Afgreiðsla;Vesturland og Vestfirðir;Miðbraut 13
+371;Búðardal;Dreifbýli;Vesturland og Vestfirðir;Landpóstur
+380;Reykhólahreppi;Afgreiðsla;Vesturland og Vestfirðir;Landpóstur
+400;Ísafirði;Pósthús;Vesturland og Vestfirðir;Aðalstræti 18
+401;Ísafirði;Dreifbýli;Vesturland og Vestfirðir;Landpóstur
+410;Hnífsdal;Póstnúmer;Vesturland og Vestfirðir;Landpóstur
+415;Bolungarvík;Afgreiðsla;Vesturland og Vestfirðir;Aðalstræti 14
+420;Súðavík;Afgreiðsla;Vesturland og Vestfirðir;Grundarstræti 3-5
+425;Flateyri;Afgreiðsla;Vesturland og Vestfirðir;Ránargötu 1
+430;Suðureyri;Afgreiðsla;Vesturland og Vestfirðir;Aðalgötu 8
+450;Patreksfirði;Pósthús;Vesturland og Vestfirðir;Bjarkargötu 4
+451;Patreksfirði;Dreifbýli;Vesturland og Vestfirðir;Landpóstur
+460;Tálknafirði;Afgreiðsla;Vesturland og Vestfirðir;Strandgötu 38
+465;Bíldudal;Afgreiðsla;Vesturland og Vestfirðir;Lönguhlíð 1
+470;Þingeyri;Afgreiðsla;Vesturland og Vestfirðir;Fjarðargata 2
+471;Þingeyri;Dreifbýli;Vesturland og Vestfirðir;Landpóstur
+500;Stað;Afgreiðsla;Vesturland og Vestfirðir;Landpóstur
+510;Hólmavík;Afgreiðsla;Vesturland og Vestfirðir;Hafnarbraut 19
+512;Hólmavík;Dreifbýli;Vesturland og Vestfirðir;Landpóstur
+520;Drangsnesi;Afgreiðsla;Vesturland og Vestfirðir;Borgargötu 2
+524;Árneshreppi;Bréfhirðing;Vesturland og Vestfirðir;Landpóstur
+530;Hvammstanga;Pósthús;Norðurland;Lækjargötu 2
+531;Hvammstanga;Dreifbýli;Norðurland;Landpóstur
+540;Blönduósi;Pósthús;Norðurland;Hnjúkabyggð 32
+541;Blönduósi;Dreifbýli;Norðurland;Landpóstur
+545;Skagaströnd;Afgreiðsla;Norðurland;Höfða
+550;Sauðárkróki;Pósthús;Norðurland;Kirkjutorgi 5
+551;Sauðárkróki;Dreifbýli;Norðurland;Landpóstur
+560;Varmahlíð;Afgreiðsla;Norðurland;Varmahlíð
+565;Hofsós;Afgreiðsla;Norðurland;Landpóstur
+566;Hofsós;Dreifbýli;Norðurland;Landpóstur
+570;Fljótum;Póstnúmer;Norðurland;Aðalgötu 24 (Siglufirði)
+580;Siglufirði;Afgreiðsla;Norðurland;Aðalgötu 24
+600;Akureyri;Pósthús;Norðurland;Strandgötu 3
+601;Akureyri;Dreifbýli;Norðurland;Landpóstur
+602;Akureyri;Pósthólf;Norðurland;Strandgötu 3
+603;Akureyri;Póstnúmer;Norðurland;Norðurtanga 3
+610;Grenivík;Afgreiðsla;Norðurland;Túngötu 3
+611;Grímsey;Afgreiðsla;Norðurland;Flugstöð
+620;Dalvík;Afgreiðsla;Norðurland;Hafnarbraut 26
+621;Dalvík;Dreifbýli;Norðurland;Landpóstur
+625;Ólafsfirði;Afgreiðsla;Norðurland;Aðalgötu 14
+630;Hrísey;Afgreiðsla;Norðurland;Norðurvegi 6 - 8
+640;Húsavík;Afgreiðsla;Norðurland;Garðarsbraut 70
+641;Húsavík;Dreifbýli;Norðurland;Landpóstur
+645;Fosshólli;Póstnúmer;Norðurland;Landpóstur
+650;Laugum;Afgreiðsla;Norðurland;Kjarna
+660;Mývatni;Afgreiðsla;Norðurland;Helluhrauni 3
+670;Kópaskeri;Afgreiðsla;Norðurland;Bakkagötu 2
+671;Kópaskeri;Dreifbýli;Norðurland;Landpóstur
+675;Raufarhöfn;Afgreiðsla;Norðurland;Aðalbraut 19
+680;Þórshöfn;Afgreiðsla;Norðurland;Fjarðarvegi 5
+681;Þórshöfn;Dreifbýli;Norðurland;Landpóstur
+685;Bakkafirði;Afgreiðsla;Norðurland;Landpóstur
+690;Vopnafirði;Pósthús;Norðurland;Kolbeinsgötu 10
+700;Egilsstöðum;Pósthús;Austurland;Fagradalsbraut 9
+701;Egilsstöðum;Dreifbýli;Austurland;Landpóstur
+710;Seyðisfirði;Afgreiðsla;Austurland;Hafnargötu 4
+715;Mjóafirði;Afgreiðsla;Austurland;Landpóstur
+720;Borgarfirði (eystri);Afgreiðsla;Austurland;Landpóstur
+730;Reyðarfirði;Afgreiðsla;Austurland;Búðareyri 35
+735;Eskifirði;Afgreiðsla;Austurland;Strandgötu 55
+740;Neskaupstað;Afgreiðsla;Austurland;Miðstræti 26
+750;Fáskrúðsfirði;Afgreiðsla;Austurland;Skólavegi 57
+755;Stöðvarfirði;Afgreiðsla;Austurland;Fjarðarbraut 54
+760;Breiðdalsvík;Afgreiðsla;Austurland;Selnesi 38
+765;Djúpavogi;Afgreiðsla;Austurland;Kambi 1
+780;Höfn í Hornafirði;Pósthús;Austurland;Hafnarbraut 21
+781;Höfn í Hornafirði;Dreifbýli;Austurland;Landpóstur
+785;Öræfum;Afgreiðsla;Austurland;Landpóstur
+800;Selfossi;Pósthús;Suðurland og Reykjanes;Austurvegi 26
+801;Selfossi;Dreifbýli;Suðurland og Reykjanes;Landpóstur
+802;Selfossi;Pósthólf;Suðurland og Reykjanes;Austurvegi 26 (pósthólf)
+810;Hveragerði;Afgreiðsla;Suðurland og Reykjanes;Sunnumörk 2-4
+815;Þorlákshöfn;Afgreiðsla;Suðurland og Reykjanes;Reykjabraut 2
+816;Ölfus;Dreifbýli;Suðurland og Reykjanes;Landpóstur
+820;Eyrarbakka;Afgreiðsla;Suðurland og Reykjanes;Landpóstur
+825;Stokkseyri;Afgreiðsla;Suðurland og Reykjanes;Landpóstur
+840;Laugarvatni;Afgreiðsla;Suðurland og Reykjanes; 	Landpóstur
+845;Flúðum;Afgreiðsla;Suðurland og Reykjanes; 	Landpóstur
+850;Hellu;Afgreiðsla;Suðurland og Reykjanes;Þrúðvangi 10
+851;Hellu;Dreifbýli;Suðurland og Reykjanes;Þrúðvangi 10
+860;Hvolsvelli;Pósthús;Suðurland og Reykjanes;Austurvegi 2
+861;Hvolsvelli;Dreifbýli;Suðurland og Reykjanes;Austurvegi 2
+870;Vík;Afgreiðsla;Suðurland og Reykjanes;Austurvegi 15
+871;Vík;Dreifbýli;Suðurland og Reykjanes;Landpóstur
+880;Kirkjubæjarklaustri;Afgreiðsla;Suðurland og Reykjanes;Klausturvegi 13
+900;Vestmannaeyjum;Pósthús;Suðurland og Reykjanes;Vestmannabraut 22
+902;Vestmannaeyjum;Pósthólf;Suðurland og Reykjanes;Vestmannabraut 22 (pósthólf)
