@@ -8,6 +8,7 @@ from __future__ import unicode_literals, print_function, absolute_import
 import codecs
 import json
 import urllib.parse
+import time
 
 import lxml.html
 from lxml import objectify
@@ -97,6 +98,8 @@ class GeoHandler(RequestHandler):
         if not place:
             raise HTTPError(400, "Invalid postcode")
 
+        start = time.time()
+
         http_client = AsyncHTTPClient()
         f = build_filter(street, number, postcode)
 
@@ -107,6 +110,7 @@ class GeoHandler(RequestHandler):
         j = json.loads(response.body.decode('utf-8'))
 
         self.write({'results': [build_response_element(i) for i in j['features']]})
+        self.add_header('X-REQUEST-TIME', str(time.time() - start))
         self.finish()
 
 
