@@ -1,7 +1,12 @@
-import unittest
-import json
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+"""
+Quick geo-coding service for icelandic addresses
+"""
+from __future__ import unicode_literals, print_function, absolute_import
 
-import lxml.html
+import json
+import unittest
 
 from tornado.ioloop import IOLoop
 from tornado.web import Application
@@ -29,6 +34,7 @@ class GeoTest(AsyncHTTPTestCase):
         self.assertIsNotNone(j)
         self.assertDictEqual(j['results'][0]['coordinates'],
             {"lng": -21.9311738, "lat": 64.1460249})
+
 
 if __name__ == '__main__':
     unittest.main()
