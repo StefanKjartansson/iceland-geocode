@@ -15,8 +15,6 @@ if sys.version_info[0] < 3:
 else:
     from urllib.parse import urlencode
 
-import lxml.html
-from lxml import objectify
 from lxml.builder import E
 from lxml.etree import tostring
 
