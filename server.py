@@ -7,8 +7,13 @@ from __future__ import unicode_literals, print_function, absolute_import
 
 import codecs
 import json
-import urllib.parse
 import time
+import sys
+
+if sys.version_info[0] < 3:
+    from urllib import urlencode
+else:
+    from urllib.parse import urlencode
 
 import lxml.html
 from lxml import objectify
@@ -38,7 +43,7 @@ def build_geo_http_request(filters):
         'filter': filters,
     }
     return HTTPRequest(url, method='POST',
-        body=urllib.parse.urlencode(params))
+        body=urlencode(params))
 
 
 def build_name(p):
