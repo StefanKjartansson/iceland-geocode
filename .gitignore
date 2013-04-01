@@ -6,6 +6,7 @@ dist/
 *.log
 *.py[oc]
 env/
+env27/
 *sw[po]
 distribute-*
 *.iml
