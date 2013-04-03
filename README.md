@@ -17,4 +17,4 @@ Clone and setup the requirements, the project has only been tested on python2.7 
     pip install -r requirements.txt
     python server.py
 
-Navigate your browser to **http://localhost:8888/q?Laugavegur+1,101**
+Navigate your browser to **http://localhost:8888/?q=Laugavegur+1,101**
